@@ -44,7 +44,7 @@ jobs:
           context: .
           file: ./Dockerfile  # Ajusta esta ruta si es necesario
           push: true
-          tags: ghcr.io/aelortza/actions-adibidea:latest
+          tags: ghcr.io/aelortza-uni/actions-adibidea:latest
          # cache-from: type=registry,ref=ghcr.io/aelortza/actions-adibidea:latest
          # cache-to: type=inline
 
